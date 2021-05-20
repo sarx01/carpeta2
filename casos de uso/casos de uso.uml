@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_i-p9oLmNEeuk_775_KHRog" name="casos de uso">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_jBkHsLmNEeuk_775_KHRog">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="__q0KoLmOEeuk_775_KHRog" name="acciones" useCase="_DfHisLmPEeuk_775_KHRog _Hk66cLmPEeuk_775_KHRog _K2bugLmPEeuk_775_KHRog">
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_DfHisLmPEeuk_775_KHRog" name="mamada" subject="__q0KoLmOEeuk_775_KHRog">
+      <extend xmi:type="uml:Extend" xmi:id="_PBZTELmPEeuk_775_KHRog" extendedCase="_K2bugLmPEeuk_775_KHRog" extensionLocation="_PBZ6ILmPEeuk_775_KHRog"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_Hk66cLmPEeuk_775_KHRog" name="paja" subject="__q0KoLmOEeuk_775_KHRog">
+      <extend xmi:type="uml:Extend" xmi:id="_Plv9ULmPEeuk_775_KHRog" extendedCase="_K2bugLmPEeuk_775_KHRog" extensionLocation="_Plv9UbmPEeuk_775_KHRog"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_K2bugLmPEeuk_775_KHRog" name="manualidades" subject="__q0KoLmOEeuk_775_KHRog">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_PBZ6ILmPEeuk_775_KHRog" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_Plv9UbmPEeuk_775_KHRog" name="ExtensionPoint2"/>
+    </ownedUseCase>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Bwy_sLmPEeuk_775_KHRog" name="comprador"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_QfgP0LmPEeuk_775_KHRog" memberEnd="_QfgP07mPEeuk_775_KHRog _Qfg24LmPEeuk_775_KHRog">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_QfgP0bmPEeuk_775_KHRog" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QfgP0rmPEeuk_775_KHRog" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_QfgP07mPEeuk_775_KHRog" name="actor3" type="_Bwy_sLmPEeuk_775_KHRog" association="_QfgP0LmPEeuk_775_KHRog"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Qfg24LmPEeuk_775_KHRog" name="manualidades" type="_K2bugLmPEeuk_775_KHRog" association="_QfgP0LmPEeuk_775_KHRog"/>
+  </packagedElement>
+</uml:Model>

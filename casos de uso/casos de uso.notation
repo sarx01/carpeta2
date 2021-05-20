@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_i_7wALmNEeuk_775_KHRog" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="__q1YwLmOEeuk_775_KHRog" type="Classifier_SubjectShape">
+    <children xmi:type="notation:DecorationNode" xmi:id="__q1_0LmOEeuk_775_KHRog" type="Classifier_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="__q1_0bmOEeuk_775_KHRog" type="Classifier_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="__q1_0rmOEeuk_775_KHRog" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="__q1_07mOEeuk_775_KHRog" type="Classifier_UseCaseCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_DfPegLmPEeuk_775_KHRog" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_DfPegrmPEeuk_775_KHRog" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_DfPeg7mPEeuk_775_KHRog" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_DfPehLmPEeuk_775_KHRog" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_DfQsoLmPEeuk_775_KHRog" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_DfQsobmPEeuk_775_KHRog"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_DfQsormPEeuk_775_KHRog"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DfQso7mPEeuk_775_KHRog"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="casos%20de%20uso.uml#_DfHisLmPEeuk_775_KHRog"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DfPegbmPEeuk_775_KHRog" x="214" y="30"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_HlAaALmPEeuk_775_KHRog" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_HlAaArmPEeuk_775_KHRog" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_HlAaA7mPEeuk_775_KHRog" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_HlAaBLmPEeuk_775_KHRog" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_HlAaBbmPEeuk_775_KHRog" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_HlAaBrmPEeuk_775_KHRog"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_HlAaB7mPEeuk_775_KHRog"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HlAaCLmPEeuk_775_KHRog"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="casos%20de%20uso.uml#_Hk66cLmPEeuk_775_KHRog"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HlAaAbmPEeuk_775_KHRog" x="214" y="90"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_K2hOELmPEeuk_775_KHRog" type="UseCase_Shape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_K2h1ILmPEeuk_775_KHRog" type="UseCase_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_K2h1IbmPEeuk_775_KHRog" type="UseCase_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_K2h1IrmPEeuk_775_KHRog" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_K2h1I7mPEeuk_775_KHRog" type="UseCase_ExtensionPointCompartment_CCN">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_K2h1JLmPEeuk_775_KHRog"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_K2h1JbmPEeuk_775_KHRog"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_K2h1JrmPEeuk_775_KHRog"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="casos%20de%20uso.uml#_K2bugLmPEeuk_775_KHRog"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_K2hOEbmPEeuk_775_KHRog" x="34" y="70"/>
+      </children>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="__q1_1LmOEeuk_775_KHRog"/>
+    </children>
+    <element xmi:type="uml:Component" href="casos%20de%20uso.uml#__q0KoLmOEeuk_775_KHRog"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__q1YwbmOEeuk_775_KHRog" x="220" y="200" width="401" height="200"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Bw0N0LmPEeuk_775_KHRog" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Bw0N0rmPEeuk_775_KHRog" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Bw0N07mPEeuk_775_KHRog" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Bw0N1LmPEeuk_775_KHRog" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Bw0N1bmPEeuk_775_KHRog" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Bw0N1rmPEeuk_775_KHRog" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Bw0N17mPEeuk_775_KHRog" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Bw004LmPEeuk_775_KHRog" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Bw004bmPEeuk_775_KHRog" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="casos%20de%20uso.uml#_Bwy_sLmPEeuk_775_KHRog"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bw0N0bmPEeuk_775_KHRog" x="120" y="260"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_i_7wAbmNEeuk_775_KHRog" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_i_7wArmNEeuk_775_KHRog"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_i_7wA7mNEeuk_775_KHRog" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="casos%20de%20uso.uml#_i-p9oLmNEeuk_775_KHRog"/>
+  </styles>
+  <element xmi:type="uml:Model" href="casos%20de%20uso.uml#_i-p9oLmNEeuk_775_KHRog"/>
+  <edges xmi:type="notation:Connector" xmi:id="_PBeLkLmPEeuk_775_KHRog" type="Extend_Edge" source="_DfPegLmPEeuk_775_KHRog" target="_K2hOELmPEeuk_775_KHRog">
+    <children xmi:type="notation:DecorationNode" xmi:id="_PBeLk7mPEeuk_775_KHRog" type="Extend_KeywordLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_PBeLlLmPEeuk_775_KHRog" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_PBeLlbmPEeuk_775_KHRog" type="Extend_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_PBeLlrmPEeuk_775_KHRog" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_PBeLkbmPEeuk_775_KHRog"/>
+    <element xmi:type="uml:Extend" href="casos%20de%20uso.uml#_PBZTELmPEeuk_775_KHRog"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PBeLkrmPEeuk_775_KHRog" points="[500, 260, -643984, -643984]$[360, 302, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PBrm8LmPEeuk_775_KHRog" id="(0.42857142857142855,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PBrm8bmPEeuk_775_KHRog" id="(0.7142857142857143,0.03333333333333333)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_Pl010LmPEeuk_775_KHRog" type="Extend_Edge" source="_HlAaALmPEeuk_775_KHRog" target="_K2hOELmPEeuk_775_KHRog">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Pl0107mPEeuk_775_KHRog" type="Extend_KeywordLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Pl011LmPEeuk_775_KHRog" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Pl011bmPEeuk_775_KHRog" type="Extend_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Pl011rmPEeuk_775_KHRog" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Pl010bmPEeuk_775_KHRog"/>
+    <element xmi:type="uml:Extend" href="casos%20de%20uso.uml#_Plv9ULmPEeuk_775_KHRog"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Pl010rmPEeuk_775_KHRog" points="[440, 350, -643984, -643984]$[380, 350, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pl_N4LmPEeuk_775_KHRog" id="(0.0,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Pl_N4bmPEeuk_775_KHRog" id="(0.8571428571428571,0.8333333333333334)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_Qfg24bmPEeuk_775_KHRog" type="Association_Edge" source="_K2hOELmPEeuk_775_KHRog" target="_Bw0N0LmPEeuk_775_KHRog">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Qfhd8LmPEeuk_775_KHRog" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Qfhd8bmPEeuk_775_KHRog" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Qfhd8rmPEeuk_775_KHRog" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Qfhd87mPEeuk_775_KHRog" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Qfg24rmPEeuk_775_KHRog"/>
+    <element xmi:type="uml:Association" href="casos%20de%20uso.uml#_QfgP0LmPEeuk_775_KHRog"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Qfg247mPEeuk_775_KHRog" points="[360, 357, -643984, -643984]$[150, 300, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QfrO8LmPEeuk_775_KHRog" id="(0.0,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QfrO8bmPEeuk_775_KHRog" id="(1.0,0.8)"/>
+  </edges>
+</notation:Diagram>
